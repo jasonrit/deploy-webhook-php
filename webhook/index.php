@@ -8,8 +8,11 @@
 // Repo to path mapping
 const REPOS = [
   'boonemoylelaw' => '/var/www/boone',
-  'brightbuilders' => '/var/www/brightbuilders',
+  'brightbuilders' => '/var/www/bb',
+  'leanpress' => '/var/www/leanpress-jr',
+  'leanpress-site' => '/var/www/leanpress-site',
   'test-deploy-actions' => '/var/www/jr-deploy',
+  'texas-dwi-penalties ' => '/var/www/tx-dwi',
   // add more repos here
 ];
 
