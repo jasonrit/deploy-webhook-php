@@ -10,8 +10,8 @@ const REPOS = [
   'boonemoylelaw' => '/var/www/boone',
   'brightbuilders' => '/var/www/bb',
   'leanpress' => '/var/www/leanpress-jr',
-  'leanpress-site' => '/var/www/leanpress-site',
-  'test-deploy-actions' => '/var/www/jr-deploy',
+  'leanpress-site' => '/var/www/leanpress',
+  'deploy-webhook-php' => '/var/www/jr-deploy', // itself
   'texas-dwi-penalties ' => '/var/www/tx-dwi',
   // add more repos here
 ];
